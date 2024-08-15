@@ -1,0 +1,12 @@
+[submodule "submodules/ParaGreedProtocol"]
+	path = submodules/ParaGreedProtocol
+	url = https://github.com/SuperChadCode/ParaGreed.git
+	branch = protocol
+[submodule "submodules/ParaHelperProtocol"]
+	path = submodules/ParaHelperProtocol
+	url = https://github.com/SuperChadCode/ParaHelper.git
+	branch = protocol
+[submodule "submodules/ParaTools"]
+	path = submodules/ParaTools
+	url = https://github.com/SuperChadCode/ParaTools.git
+	branch = main
