@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.trueToastedCode.ParaHelper</string>
+    <key>Program</key>
+    <string>/Library/PrivilegedHelperTools/com.trueToastedCode.ParaHelper</string>
+    <key>MachServices</key>
+    <dict>
+        <key>com.trueToastedCode.ParaHelper</key>
+        <true/>
+    </dict>
+    <key>RunAtLoad</key>
+    <true/>
+    <key>KeepAlive</key>
+    <true/>
+    <key>StandardOutPath</key>
+    <string>/Library/Logs/com.trueToastedCode.parahelper_out.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Library/Logs/com.trueToastedCode.parahelper_err.log</string>
+</dict>
+</plist>
